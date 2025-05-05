@@ -1,0 +1,103 @@
+2025-04-10 14:28:11 INFO  DataDrivenSteps:19 - Navigating to login page
+2025-04-10 14:28:11 INFO  DataDrivenSteps:24 - Entered username: user1 and password: pass1
+2025-04-10 14:28:11 INFO  DataDrivenSteps:29 - Login expected result: success
+2025-04-10 14:28:14 INFO  DataDrivenSteps:19 - Navigating to login page
+2025-04-10 14:28:14 INFO  DataDrivenSteps:24 - Entered username: user2 and password: wrongpass
+2025-04-10 14:28:14 INFO  DataDrivenSteps:29 - Login expected result: failure
+2025-04-10 14:28:16 INFO  DataDrivenSteps:19 - Navigating to login page
+2025-04-10 14:28:16 INFO  DataDrivenSteps:24 - Entered username: admin and password: admin123
+2025-04-10 14:28:16 INFO  DataDrivenSteps:29 - Login expected result: success
+2025-04-10 14:28:18 INFO  DataDrivenSteps:19 - Navigating to login page
+2025-04-10 14:28:20 INFO  DataDrivenSteps:19 - Navigating to login page
+2025-04-10 14:36:41 INFO  DataDrivenSteps:19 - Navigating to login page
+2025-04-10 14:36:41 INFO  DataDrivenSteps:24 - Entered username: user1 and password: pass1
+2025-04-10 14:36:41 INFO  DataDrivenSteps:29 - Login expected result: success
+2025-04-10 14:36:43 INFO  DataDrivenSteps:19 - Navigating to login page
+2025-04-10 14:36:43 INFO  DataDrivenSteps:24 - Entered username: user2 and password: wrongpass
+2025-04-10 14:36:43 INFO  DataDrivenSteps:29 - Login expected result: failure
+2025-04-10 14:36:46 INFO  DataDrivenSteps:19 - Navigating to login page
+2025-04-10 14:36:46 INFO  DataDrivenSteps:24 - Entered username: admin and password: admin123
+2025-04-10 14:36:46 INFO  DataDrivenSteps:29 - Login expected result: success
+2025-04-10 14:36:48 INFO  DataDrivenSteps:19 - Navigating to login page
+2025-04-10 14:36:48 INFO  DataDrivenSteps:36 - Read from CSV: https://example.com/page1
+2025-04-10 14:36:48 INFO  DataDrivenSteps:36 - Read from CSV: https://example.com/page2
+2025-04-10 14:36:48 INFO  DataDrivenSteps:36 - Read from CSV: https://example.com/page3
+2025-04-10 14:36:50 INFO  DataDrivenSteps:19 - Navigating to login page
+2025-04-10 14:37:41 INFO  DataDrivenSteps:19 - Navigating to login page
+2025-04-10 14:37:41 INFO  DataDrivenSteps:36 - Read from CSV: https://example.com/page1
+2025-04-10 14:37:41 INFO  DataDrivenSteps:36 - Read from CSV: https://example.com/page2
+2025-04-10 14:37:41 INFO  DataDrivenSteps:36 - Read from CSV: https://example.com/page3
+2025-04-10 14:40:18 INFO  DataDrivenSteps:19 - Navigating to login page
+2025-04-10 14:40:18 INFO  DataDrivenSteps:36 - Read from CSV: https://example.com/page1
+2025-04-10 14:40:18 INFO  DataDrivenSteps:36 - Read from CSV: https://example.com/page2
+2025-04-10 14:40:18 INFO  DataDrivenSteps:36 - Read from CSV: https://example.com/page3
+2025-04-10 14:41:52 INFO  DataDrivenSteps:19 - Navigating to login page
+2025-04-10 14:41:52 INFO  DataDrivenSteps:36 - Read from CSV: https://www.news18.com/india/tahawwur-rana-extradition-live-updates-26-11-mumbai-attacks-accused-legal-process-timeline-nia-tihar-jail-pakistan-latest-news-liveblog-9293318.html
+2025-04-10 14:41:52 INFO  DataDrivenSteps:36 - Read from CSV: https://www.news18.com/movies/kapil-sharmas-dramatic-weight-loss-shocks-fans-netizens-wonder-if-hes-on-ozempic-he-looks-unwell-ws-l-9293355.html
+2025-04-10 14:41:52 INFO  DataDrivenSteps:36 - Read from CSV: https://www.news18.com/india/double-jeopardy-and-diplomacy-how-india-secured-tahawwur-ranas-extradition-from-us-9293571.html
+2025-04-10 14:51:49 INFO  DataDrivenSteps:27 - Navigating to login page
+2025-04-10 14:51:49 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/india/tahawwur-rana-extradition-live-updates-26-11-mumbai-attacks-accused-legal-process-timeline-nia-tihar-jail-pakistan-latest-news-liveblog-9293318.html
+2025-04-10 14:51:49 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/movies/kapil-sharmas-dramatic-weight-loss-shocks-fans-netizens-wonder-if-hes-on-ozempic-he-looks-unwell-ws-l-9293355.html
+2025-04-10 14:51:49 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/india/double-jeopardy-and-diplomacy-how-india-secured-tahawwur-ranas-extradition-from-us-9293571.html
+2025-04-10 14:52:31 INFO  DataDrivenSteps:27 - Navigating to login page
+2025-04-10 14:52:31 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/india/tahawwur-rana-extradition-live-updates-26-11-mumbai-attacks-accused-legal-process-timeline-nia-tihar-jail-pakistan-latest-news-liveblog-9293318.html
+2025-04-10 14:52:31 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/movies/kapil-sharmas-dramatic-weight-loss-shocks-fans-netizens-wonder-if-hes-on-ozempic-he-looks-unwell-ws-l-9293355.html
+2025-04-10 14:52:31 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/india/double-jeopardy-and-diplomacy-how-india-secured-tahawwur-ranas-extradition-from-us-9293571.html
+2025-04-13 00:42:15 INFO  DataDrivenSteps:27 - Navigating to login page
+2025-04-13 00:42:15 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/india/tahawwur-rana-extradition-live-updates-26-11-mumbai-attacks-accused-legal-process-timeline-nia-tihar-jail-pakistan-latest-news-liveblog-9293318.html
+2025-04-13 00:42:15 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/movies/kapil-sharmas-dramatic-weight-loss-shocks-fans-netizens-wonder-if-hes-on-ozempic-he-looks-unwell-ws-l-9293355.html
+2025-04-13 00:42:15 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/india/double-jeopardy-and-diplomacy-how-india-secured-tahawwur-ranas-extradition-from-us-9293571.html
+2025-04-13 01:03:16 INFO  DataDrivenSteps:27 - Navigating to login page
+2025-04-13 01:03:16 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/india/tahawwur-rana-extradition-live-updates-26-11-mumbai-attacks-accused-legal-process-timeline-nia-tihar-jail-pakistan-latest-news-liveblog-9293318.html
+2025-04-13 01:03:16 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/movies/kapil-sharmas-dramatic-weight-loss-shocks-fans-netizens-wonder-if-hes-on-ozempic-he-looks-unwell-ws-l-9293355.html
+2025-04-13 01:03:16 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/india/double-jeopardy-and-diplomacy-how-india-secured-tahawwur-ranas-extradition-from-us-9293571.html
+2025-04-13 01:06:45 INFO  DataDrivenSteps:27 - Navigating to login page
+2025-04-13 01:06:45 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/india/tahawwur-rana-extradition-live-updates-26-11-mumbai-attacks-accused-legal-process-timeline-nia-tihar-jail-pakistan-latest-news-liveblog-9293318.html
+2025-04-13 01:06:45 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/movies/kapil-sharmas-dramatic-weight-loss-shocks-fans-netizens-wonder-if-hes-on-ozempic-he-looks-unwell-ws-l-9293355.html
+2025-04-13 01:06:45 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/india/double-jeopardy-and-diplomacy-how-india-secured-tahawwur-ranas-extradition-from-us-9293571.html
+2025-04-13 01:08:07 INFO  DataDrivenSteps:27 - Navigating to login page
+2025-04-13 01:08:07 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/india/tahawwur-rana-extradition-live-updates-26-11-mumbai-attacks-accused-legal-process-timeline-nia-tihar-jail-pakistan-latest-news-liveblog-9293318.html
+2025-04-13 01:08:07 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/movies/kapil-sharmas-dramatic-weight-loss-shocks-fans-netizens-wonder-if-hes-on-ozempic-he-looks-unwell-ws-l-9293355.html
+2025-04-13 01:08:07 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/india/double-jeopardy-and-diplomacy-how-india-secured-tahawwur-ranas-extradition-from-us-9293571.html
+2025-04-13 01:08:58 INFO  DataDrivenSteps:27 - Navigating to login page
+2025-04-13 01:08:58 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/india/tahawwur-rana-extradition-live-updates-26-11-mumbai-attacks-accused-legal-process-timeline-nia-tihar-jail-pakistan-latest-news-liveblog-9293318.html
+2025-04-13 01:08:58 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/movies/kapil-sharmas-dramatic-weight-loss-shocks-fans-netizens-wonder-if-hes-on-ozempic-he-looks-unwell-ws-l-9293355.html
+2025-04-13 01:08:58 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/india/double-jeopardy-and-diplomacy-how-india-secured-tahawwur-ranas-extradition-from-us-9293571.html
+2025-04-13 01:13:02 INFO  DataDrivenSteps:27 - Navigating to login page
+2025-04-13 01:13:02 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/india/tahawwur-rana-extradition-live-updates-26-11-mumbai-attacks-accused-legal-process-timeline-nia-tihar-jail-pakistan-latest-news-liveblog-9293318.html
+2025-04-13 01:13:02 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/movies/kapil-sharmas-dramatic-weight-loss-shocks-fans-netizens-wonder-if-hes-on-ozempic-he-looks-unwell-ws-l-9293355.html
+2025-04-13 01:13:02 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/india/double-jeopardy-and-diplomacy-how-india-secured-tahawwur-ranas-extradition-from-us-9293571.html
+2025-04-13 01:13:48 INFO  DataDrivenSteps:27 - Navigating to login page
+2025-04-13 01:13:48 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/india/tahawwur-rana-extradition-live-updates-26-11-mumbai-attacks-accused-legal-process-timeline-nia-tihar-jail-pakistan-latest-news-liveblog-9293318.html
+2025-04-13 01:13:48 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/movies/kapil-sharmas-dramatic-weight-loss-shocks-fans-netizens-wonder-if-hes-on-ozempic-he-looks-unwell-ws-l-9293355.html
+2025-04-13 01:13:48 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/india/double-jeopardy-and-diplomacy-how-india-secured-tahawwur-ranas-extradition-from-us-9293571.html
+2025-04-13 01:17:22 INFO  DataDrivenSteps:27 - Navigating to login page
+2025-04-13 01:17:22 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/india/tahawwur-rana-extradition-live-updates-26-11-mumbai-attacks-accused-legal-process-timeline-nia-tihar-jail-pakistan-latest-news-liveblog-9293318.html
+2025-04-13 01:17:22 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/movies/kapil-sharmas-dramatic-weight-loss-shocks-fans-netizens-wonder-if-hes-on-ozempic-he-looks-unwell-ws-l-9293355.html
+2025-04-13 01:17:22 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/india/double-jeopardy-and-diplomacy-how-india-secured-tahawwur-ranas-extradition-from-us-9293571.html
+2025-04-13 14:46:15 INFO  DataDrivenSteps:27 - Navigating to login page
+2025-04-13 14:46:15 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/india/tahawwur-rana-extradition-live-updates-26-11-mumbai-attacks-accused-legal-process-timeline-nia-tihar-jail-pakistan-latest-news-liveblog-9293318.html
+2025-04-13 14:46:15 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/movies/kapil-sharmas-dramatic-weight-loss-shocks-fans-netizens-wonder-if-hes-on-ozempic-he-looks-unwell-ws-l-9293355.html
+2025-04-13 14:46:15 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/india/double-jeopardy-and-diplomacy-how-india-secured-tahawwur-ranas-extradition-from-us-9293571.html
+2025-04-14 11:19:39 INFO  DataDrivenSteps:27 - Navigating to login page
+2025-04-14 11:19:40 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/india/tahawwur-rana-extradition-live-updates-26-11-mumbai-attacks-accused-legal-process-timeline-nia-tihar-jail-pakistan-latest-news-liveblog-9293318.html
+2025-04-14 11:19:40 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/movies/kapil-sharmas-dramatic-weight-loss-shocks-fans-netizens-wonder-if-hes-on-ozempic-he-looks-unwell-ws-l-9293355.html
+2025-04-14 11:19:40 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/india/double-jeopardy-and-diplomacy-how-india-secured-tahawwur-ranas-extradition-from-us-9293571.html
+2025-04-14 11:21:41 INFO  DataDrivenSteps:27 - Navigating to login page
+2025-04-14 11:21:41 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/india/tahawwur-rana-extradition-live-updates-26-11-mumbai-attacks-accused-legal-process-timeline-nia-tihar-jail-pakistan-latest-news-liveblog-9293318.html
+2025-04-14 11:21:41 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/movies/kapil-sharmas-dramatic-weight-loss-shocks-fans-netizens-wonder-if-hes-on-ozempic-he-looks-unwell-ws-l-9293355.html
+2025-04-14 11:21:41 INFO  DataDrivenSteps:44 - Read from CSV: https://www.news18.com/india/double-jeopardy-and-diplomacy-how-india-secured-tahawwur-ranas-extradition-from-us-9293571.html
+2025-04-15 16:26:00 INFO  DataDrivenSteps:27 - Navigating to login page
+2025-04-15 16:26:00 INFO  DataDrivenSteps:32 - Entered username: user1 and password: pass1
+2025-04-15 16:26:00 INFO  DataDrivenSteps:37 - Login expected result: success
+2025-04-15 16:26:20 INFO  DataDrivenSteps:27 - Navigating to login page
+2025-04-15 16:26:20 INFO  DataDrivenSteps:32 - Entered username: user2 and password: wrongpass
+2025-04-15 16:26:20 INFO  DataDrivenSteps:37 - Login expected result: failure
+2025-04-15 16:26:24 INFO  DataDrivenSteps:27 - Navigating to login page
+2025-04-15 16:26:24 INFO  DataDrivenSteps:32 - Entered username: admin and password: admin123
+2025-04-15 16:26:24 INFO  DataDrivenSteps:37 - Login expected result: success
+2025-04-16 14:16:41 INFO  DataDrivenSteps:138 - Frame page color : rgba(245, 167, 109, 1)
+2025-04-16 14:30:40 INFO  DataDrivenSteps:144 - Frame page color : rgba(245, 167, 109, 1)
+2025-04-16 14:33:58 INFO  DataDrivenSteps:144 - Frame page color : rgba(245, 167, 109, 1)
+2025-04-16 14:43:51 INFO  DataDrivenSteps:144 - Frame page color : rgba(245, 167, 109, 1)
+2025-04-16 15:15:29 INFO  DataDrivenSteps:178 - Frame page color : #f5a76d

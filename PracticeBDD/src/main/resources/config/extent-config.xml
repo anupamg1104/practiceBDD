@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+        <theme>standard</theme>
+        <encoding>utf-8</encoding>
+        <protocol>https</protocol>
+        <documentTitle>BDD Automation Test Report</documentTitle>
+        <reportName>Regression Suite Execution Report</reportName>
+        <timelineEnabled>true</timelineEnabled>
+        <charts>
+            <enabled>true</enabled>
+            <configuration>suite</configuration>
+        </charts>
+    </configuration>
+</extentreports>

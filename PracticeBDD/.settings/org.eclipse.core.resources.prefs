@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/framework/listeners/CustomListener.java=UTF-8
+encoding//src/main/java/com/framework/utils/ExceptionValidator.java=UTF-8
+encoding//src/test/java/com/framework/runners/TestRunner.java=UTF-8
+encoding//src/test/java/com/framework/stepdefinitions/DataDrivenSteps.java=UTF-8
